@@ -1,16 +1,14 @@
-## Hi there 👋
+### Doaa
+:woman_student::woman_artist::revolving_hearts:
+# About me
 
-<!--
-**doaaalg/doaaalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:bar_chart::woman_technologist: I have a Bachelor's degree in Pure Mathematics and currently undertaking a Master's degree in Health Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 💬 Ask me about anything I may know the answer
+
+
+- ⚡ Fun fact: I am also an artist :woman_artist: my most creative ideas come at 3am :sparkles:
